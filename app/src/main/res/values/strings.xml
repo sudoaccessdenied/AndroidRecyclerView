@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMessageExtractor</string>
+    <string name="enter_your_message_here">Enter your Message here</string>
+    <string name="message">Your Message has been sent</string>
+    <string name="title">Nishant</string>
+    <string name="ok_alert">OK</string>
+    <string name="ok_message">OK Button Pressed</string>
+    <string name="name_rahul">Rahul</string>
+    <string name="name_prince">Prince</string>
+    <string name="name_prashant">Prashant</string>
+    <string name="name_nishant">Nishant</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="show_button">Show</string>
+</resources>
