@@ -30,10 +30,12 @@
 
             <TextView
                 android:id="@+id/text_view_card"
+                style="@style/WhiteText"
+                android:elevation="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="16dp"
-                android:background="@android:color/darker_gray"
+                android:background="@drawable/myrect"
                 android:textAppearance="@style/TextAppearance.AppCompat.Caption"
                 />
 

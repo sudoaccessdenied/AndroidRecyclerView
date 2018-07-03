@@ -11,4 +11,6 @@
     <string name="name_nishant">Nishant</string>
     <string name="permission_granted">Permission Granted</string>
     <string name="show_button">Show</string>
+    <string name="last_name">Last Name</string>
+    <string name="fan_control">Fan Control</string>
 </resources>
