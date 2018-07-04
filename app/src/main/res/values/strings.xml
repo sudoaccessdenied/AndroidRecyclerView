@@ -13,4 +13,5 @@
     <string name="show_button">Show</string>
     <string name="last_name">Last Name</string>
     <string name="fan_control">Fan Control</string>
+    <string name="done">Done!</string>
 </resources>
