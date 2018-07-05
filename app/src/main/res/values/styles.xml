@@ -9,8 +9,7 @@
 
     </style>
 
-    <style name="WhiteText" parent="AppTheme">
-        <item name="android:color">@color/textColor</item>
+    <style name="myAppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
     </style>
 
 

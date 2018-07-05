@@ -6,4 +6,6 @@
     <color name="textColor" >#ffffff</color>
     <color name="colorBackground">#aeea00</color>
     <color name="colorRectangle">#79b700</color>
+    <color name="opaque_orange">#FFFF5500</color>
+    <color name="opaque_yellow">#FFFFEB3B</color>
 </resources>
